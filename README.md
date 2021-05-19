@@ -1,7 +1,7 @@
 # Data Science Specialization
 - Launch Your Career in Data Science. A ten-course introduction to data science, developed and taught by leading professors.
 - This course is offered by Johns Hopkins University Coursera
-- Link is here: [Data Science Specialization](https://www.coursera.org/specializations/jhu-data-science)
+- Link on Coursera: [Data Science Specialization](https://www.coursera.org/specializations/jhu-data-science)
 
 ## About this Specialization
 Ask the right questions, manipulate data sets, and create visualizations to communicate results.
